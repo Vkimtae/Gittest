@@ -1,2 +1,2 @@
 This is tom
-Changes are made to tom
+Change has been made to this file.
